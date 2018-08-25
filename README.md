@@ -1,5 +1,5 @@
 # typingtest
-A typing test application.
+A typing speed test application.
 
 # Demo
 
